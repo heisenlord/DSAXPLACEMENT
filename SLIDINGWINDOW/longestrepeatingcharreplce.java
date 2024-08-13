@@ -1,3 +1,4 @@
+package SLIDINGWINDOW;
 class Solution {
     public int characterReplacement(String s, int k) {
         Map<Character, Integer> map = new HashMap<>();

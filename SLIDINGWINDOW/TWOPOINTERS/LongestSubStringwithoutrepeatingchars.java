@@ -1,3 +1,4 @@
+package SLIDINGWINDOW.TWOPOINTERS;
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         HashMap<Character,Integer> map=new HashMap<>();

@@ -1,3 +1,4 @@
+package SLIDINGWINDOW;
 class Solution {
     public int longestOnes(int[] nums, int k) {
         int s = 0;

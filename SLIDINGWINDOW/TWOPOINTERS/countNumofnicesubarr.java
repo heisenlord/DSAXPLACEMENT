@@ -1,3 +1,4 @@
+package SLIDINGWINDOW.TWOPOINTERS;
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         return helper(nums, k) - helper(nums, k - 1);
