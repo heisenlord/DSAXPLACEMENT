@@ -1,4 +1,4 @@
-package SLIDINGWINDOW.TWOPOINTERS;
+package SLIDINGWINDOW;
 class Solution {
     public int helpMe(int[] nums, int goal) {
         int l = 0;
