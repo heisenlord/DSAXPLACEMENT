@@ -1,6 +1,6 @@
 
 class Solution {
-    // Function to return a list containing the DFS traversal of the graph.
+    //  return a list 
     public ArrayList<Integer> dfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj) {
         boolean[] vis = new boolean[V + 1];
         vis[0] = true;
